@@ -1,5 +1,6 @@
 # 💫 About Me:
-🧑‍💻Making my own web browser<br>📷Upcoming tech YouTuber<br>💻Learning SwiftUI<br>👀Exploring!<be>## Online Goals for 2025 (2024 failed)<br>1. Get 1K subs on YouTube<br>2. Start streaming<br>3. Learn AWS<br>
+🧑‍💻Making my own web browser<br>📷Upcoming tech YouTuber<br>💻Learning SwiftUI<br>👀Exploring!<be>
+## Online Goals for 2025 (2024 failed)<br>1. Get 1K subs on YouTube<br>2. Start streaming<br>3. Learn AWS<br>
 
 
 ## 🌐 Socials:
